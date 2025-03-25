@@ -1,4 +1,5 @@
 ---
+<link rel="stylesheet" href="/assets/css/style.css">
 layout: default
 title: Rhi Fillingham – Aspiring Data Scientist
 ---
@@ -55,6 +56,9 @@ Developed ML models to predict **oil well success rates** for smarter investment
 
 This is where I reflect on the ideas, challenges, and discoveries I encounter as I grow into the data scientist I’m becoming.
 
+<h2 class="nav-link">📓 Data Diaries</h2>
+<a href="/diaries" class="nav-link">Visit Data Diaries</a>
+
 - [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)
 
   *Coming Soon*
@@ -86,7 +90,9 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
     Download 
   </button>
 </a>
-
+<a href="/rhi_resume.pdf" download>
+  <button class="custom">⬇️ Download Resume</button>
+</a>
 ---
 
 ## GitHub Stats
