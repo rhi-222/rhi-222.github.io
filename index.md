@@ -33,13 +33,26 @@ Developed ML models to predict **oil well success rates** for smarter investment
 
 ---
 
-## 🧠 Learning Journal (Coming Soon)
+## 🧠 Learning Journal
 
-I'm using this space to reflect on what I'm learning in data science—from my first models to new discoveries in Python, machine learning, and beyond.
+Here I reflect on what I’m learning in data science—from modeling to mindset.
 
-- **Why I Chose Data Science** *(Coming Soon)*
-- **My First Predictive Model: Lessons Learned** *(Coming Soon)*
-- **Visualizing Space Data with Python** *(Coming Soon)*
+### 📌 Why I Chose Data Science  
+From creative technology to scientific research, I’ve always been drawn to patterns and meaning.  
+Data science lets me merge curiosity, logic, and purpose in a field that constantly evolves and invites exploration.  
+*Posted: March 25, 2025*
+
+---
+
+### 📌 My First Predictive Model: Lessons Learned  
+While building a telecom churn model, I achieved an AUC-ROC of 0.85—but the real lessons were in the process.  
+I learned how vital clean preprocessing is, how to handle class imbalance, and how to communicate insights clearly through visualization.  
+*Posted: March 25, 2025*
+
+---
+
+### 📌 Visualizing Space Data with Python *(Coming Soon)*  
+Using real astronomical datasets to explore star distributions and nebulae through Python-based visualizations.
 
 ---
 
