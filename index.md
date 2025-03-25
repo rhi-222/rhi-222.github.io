@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rhi Filli – Aspiring Data Scientist
+title: Rhi Fillingham – Aspiring Data Scientist
 ---
 
 # 👋 Hi, I’m Rhi
