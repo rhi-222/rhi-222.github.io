@@ -33,10 +33,26 @@ Developed ML models to predict **oil well success rates** for smarter investment
 
 ---
 
+## 🧠 Learning Journal (Coming Soon)
+
+I'm using this space to reflect on what I'm learning in data science—from my first models to new discoveries in Python, machine learning, and beyond.
+
+- **Why I Chose Data Science** *(Coming Soon)*
+- **My First Predictive Model: Lessons Learned** *(Coming Soon)*
+- **Visualizing Space Data with Python** *(Coming Soon)*
+
+---
+
 ## 📬 Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rhiannonfilli)  
 - 📧 Email: rhiannon.filli@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=default&hide=prs)
 
 ---
 
