@@ -2,12 +2,15 @@
 layout: default
 title: Rhi Fillingham – Aspiring Data Scientist
 ---
+
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <p align="center" style="margin-bottom: 1.5rem;">
-  <a href="/diaries">Data Diaries</a> |
-  <a href="https://github.com/rhi-222">GitHub</a>
+  <a href="/diaries">📓 Data Diaries</a> |
+  <a href="https://github.com/rhi-222">💻 GitHub</a>
 </p>
+
+<section>
 
 # Hi, I’m Rhi 👩🏻‍💻✨
 
@@ -15,7 +18,9 @@ I’m an aspiring data scientist with the heart of a visionary and the mind of a
 
 Currently completing a data science bootcamp, I’m building a portfolio that blends **environmental science, astronomy, and research-driven exploration**—fields where I believe data has the power to uncover meaning and inspire impact.
 
----
+</section>
+
+<section>
 
 ## 🌟 About Me
 
@@ -24,7 +29,9 @@ Currently completing a data science bootcamp, I’m building a portfolio that bl
 - 🌱 **Currently Exploring**: Computer Vision, Time Series Forecasting, and NLP  
 - 📍 **Location**: San Antonio, TX
 
----
+</section>
+
+<section>
 
 ## 🧰 Tech Stack
 
@@ -38,70 +45,70 @@ Currently completing a data science bootcamp, I’m building a portfolio that bl
   <img src="https://img.shields.io/badge/SQL-00758f?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
+</section>
+
+<section>
 
 ## 🚀 Featured Projects
 
 - [Telecom Churn Prediction](https://github.com/rhi-222/telecom-churn-prediction)  
-Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.85**.
+  Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.85**.
 
 - [Human Age Prediction (Deep Learning)](https://github.com/rhi-222/human-age-prediction)  
-Trained a **CNN model** for age estimation with an **MAE of 7.1 years**.
+  Trained a **CNN model** for age estimation with an **MAE of 7.1 years**.
 
 - [Oil Well Profitability Prediction](https://github.com/rhi-222/oil-well-prediction)  
-Developed ML models to predict **oil well success rates** for smarter investment decisions.
+  Developed ML models to predict **oil well success rates** for smarter investment decisions.
 
----
+</section>
 
-## 📓 Data Diaries
+<section>
+
+## 🌙 Data Diaries
 
 This is where I reflect on the ideas, challenges, and discoveries I encounter as I grow into the data scientist I’m becoming.
 
-<h2 class="nav-link">📓 Data Diaries</h2>
-<a href="/diaries" class="nav-link">Visit Data Diaries</a>
+- [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)  
+  _Coming Soon_
 
-- [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)
+</section>
 
-  *Coming Soon*
-
----
+<section>
 
 ## 📬 Let’s Connect!
 
 <p align="center">
   <a href="mailto:rhiannon.filli@gmail.com" target="_blank">
-    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 8px; border: none; background-color: #383f50; color: #ebcfb1;">
-      Email Me
-    </button>
+    <button class="custom">Email Me</button>
   </a>
 
   <a href="https://www.linkedin.com/in/rhiannonfilli" target="_blank">
-    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 8px; border: none; background-color: #383f50; color: #ebcfb1;">
-      LinkedIn
-    </button>
+    <button class="custom">LinkedIn</button>
   </a>
 </p>
 
----
+</section>
 
-## 📄 My Resume 
+<section>
 
-<a href="/rhi_resume.pdf" download style="font-size: 16px; text-decoration: none;">
-  <button style="padding: 10px 20px; font-size: 16px; border-radius: 8px; border: none; background-color: #383f50; color: #e07a5f;">
-    Download 
-  </button>
-</a>
+## 📄 My Resume
 
 <a href="/rhi_resume.pdf" download>
   <button class="custom">Download Resume</button>
 </a>
 
----
+</section>
 
-## GitHub Stats
+<section>
+
+## 📊 GitHub Stats
 
 ![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=calm&hide=prs)
 
----
+</section>
 
-*Thanks for visiting – I’m always open to new opportunities, collaborations, and discoveries.* ✨
+<section>
+
+<p align="center"><em>Thanks for visiting – I’m always open to new opportunities, collaborations, and discoveries.</em> ✨</p>
+
+</section>
