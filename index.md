@@ -77,7 +77,9 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
   </a>
 
 ---
+
 ## 📄 My Resume 
+
 <a href="/rhi_resume.pdf" download style="font-size: 16px; text-decoration: none;">
   <button style="padding: 10px 20px; font-size: 16px; border-radius: 8px; border: none; background-color: #383f50; color: #e07a5f;">
     Download 
