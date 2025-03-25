@@ -5,8 +5,7 @@ title: Rhi Fillingham – Aspiring Data Scientist
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <p align="center" style="margin-bottom: 1.5rem;">
-  <a href="/diaries">📓 Data Diaries</a> |
-  <a href="https://github.com/rhi-222">💻 GitHub</a>
+  <a href="/diaries">Data Diaries</a> 
 </p>
 
 # Hi, I’m Rhi 👩🏻‍💻✨
