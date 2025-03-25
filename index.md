@@ -10,17 +10,13 @@ title: Rhi Fillingham – Aspiring Data Scientist
   <a href="https://github.com/rhi-222">💻 GitHub</a>
 </p>
 
-<section>
-
 # Hi, I’m Rhi 👩🏻‍💻✨
 
 I’m an aspiring data scientist with the heart of a visionary and the mind of a scientist.
 
 Currently completing a data science bootcamp, I’m building a portfolio that blends **environmental science, astronomy, and research-driven exploration**—fields where I believe data has the power to uncover meaning and inspire impact.
 
-</section>
-
-<section>
+---
 
 ## 🌟 About Me
 
@@ -29,9 +25,7 @@ Currently completing a data science bootcamp, I’m building a portfolio that bl
 - 🌱 **Currently Exploring**: Computer Vision, Time Series Forecasting, and NLP  
 - 📍 **Location**: San Antonio, TX
 
-</section>
-
-<section>
+---
 
 ## 🧰 Tech Stack
 
@@ -45,9 +39,7 @@ Currently completing a data science bootcamp, I’m building a portfolio that bl
   <img src="https://img.shields.io/badge/SQL-00758f?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-</section>
-
-<section>
+---
 
 ## 🚀 Featured Projects
 
@@ -60,9 +52,7 @@ Currently completing a data science bootcamp, I’m building a portfolio that bl
 - [Oil Well Profitability Prediction](https://github.com/rhi-222/oil-well-prediction)  
   Developed ML models to predict **oil well success rates** for smarter investment decisions.
 
-</section>
-
-<section>
+---
 
 ## 🌙 Data Diaries
 
@@ -71,9 +61,7 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 - [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)  
   _Coming Soon_
 
-</section>
-
-<section>
+---
 
 ## 📬 Let’s Connect!
 
@@ -87,9 +75,7 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
   </a>
 </p>
 
-</section>
-
-<section>
+---
 
 ## 📄 My Resume
 
@@ -97,18 +83,12 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
   <button class="custom">Download Resume</button>
 </a>
 
-</section>
-
-<section>
+---
 
 ## 📊 GitHub Stats
 
 ![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=calm&hide=prs)
 
-</section>
-
-<section>
+---
 
 <p align="center"><em>Thanks for visiting – I’m always open to new opportunities, collaborations, and discoveries.</em> ✨</p>
-
-</section>
