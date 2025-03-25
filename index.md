@@ -25,15 +25,29 @@ Currently completing a data science bootcamp, I’m building a portfolio that bl
 
 ---
 
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-00758f?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
-### [📡 Telecom Churn Prediction](https://github.com/rhi-222/telecom-churn-prediction)  
+### [Telecom Churn Prediction](https://github.com/rhi-222/telecom-churn-prediction)  
 Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.85**.
 
-### [🧑‍🎨 Human Age Prediction (Deep Learning)](https://github.com/rhi-222/human-age-prediction)  
+### [Human Age Prediction (Deep Learning)](https://github.com/rhi-222/human-age-prediction)  
 Trained a **CNN model** for age estimation with an **MAE of 7.1 years**.
 
-### [⛽ Oil Well Profitability Prediction](https://github.com/rhi-222/oil-well-prediction)  
+### [Oil Well Profitability Prediction](https://github.com/rhi-222/oil-well-prediction)  
 Developed ML models to predict **oil well success rates** for smarter investment decisions.
 
 ---
@@ -42,7 +56,7 @@ Developed ML models to predict **oil well success rates** for smarter investment
 
 This is where I reflect on the ideas, challenges, and discoveries I encounter as I grow into the data scientist I’m becoming.
 
-### 🌙 [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)
+### 🔘 [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)
 
 *Coming Soon*
 
@@ -50,8 +64,16 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ## 📬 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rhiannonfilli)  
-- 📧 Email: rhiannon.filli@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/rhiannonfilli)  
+- Email: rhiannon.filli@gmail.com
+
+---
+## 📄 Resume 
+<a href="/rhi_resume.pdf" download style="font-size: 16px; text-decoration: none;">
+  <button style="padding: 10px 20px; font-size: 16px; border-radius: 8px; border: none; background-color: #6c63ff; color: white;">
+    Download 
+  </button>
+</a>
 
 ---
 
