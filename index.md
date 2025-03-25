@@ -33,9 +33,9 @@ Developed ML models to predict **oil well success rates** for smarter investment
 
 ---
 
-## 🧠 Learning Journal
+## 📓 Data Diaries
 
-Here I reflect on what I’m learning in data science—from modeling to mindset.
+This is where I reflect on the ideas, challenges, and discoveries I encounter as I grow into the data scientist I’m becoming.
 
 ### 📌 [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)
 From creative technology to scientific research, I’ve always been drawn to patterns and meaning.  
