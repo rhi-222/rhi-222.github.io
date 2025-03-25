@@ -90,9 +90,11 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
     Download 
   </button>
 </a>
+
 <a href="/rhi_resume.pdf" download>
-  <button class="custom">⬇️ Download Resume</button>
+  <button class="custom">Download Resume</button>
 </a>
+
 ---
 
 ## GitHub Stats
