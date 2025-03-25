@@ -1,17 +1,35 @@
+/* Color Palette */
 :root {
-  --accent-color: #9e77ff;
+  --bg-color: #383f50;
+  --text-color: #ebcfb1;
+  --title-color: #ebcfb1;
+  --accent-color: #ecae48;
 }
 
-h2 {
-  color: var(--accent-color);
+/* Global Background + Text */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Helvetica Neue', sans-serif;
+  line-height: 1.7;
 }
 
-.nav-link {
+/* Headings */
+h1, h2, h3 {
+  color: var(--title-color);
+}
+
+/* Links */
+a {
   color: var(--accent-color);
   text-decoration: none;
-  font-weight: 500;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
+/* Buttons */
 button.custom {
   padding: 10px 20px;
   font-size: 16px;
@@ -24,5 +42,16 @@ button.custom {
 }
 
 button.custom:hover {
-  background-color: #7c5de5;
+  background-color: #d4982c;
+}
+
+/* Soft Section Styling */
+section {
+  padding: 2rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Optional: Center headers and content */
+h2, h3 {
+  text-align: center;
 }
