@@ -2,7 +2,12 @@ title: Rhi
 logo: /profile.png
 description: Aspiring Data Scientist | Environmental & Astronomical Data | Python • ML • Research
 theme: jekyll-theme-minimal
+sass:
+  style: compressed
 
+include:
+  - assets/css
+  
 # Add a sidebar navigation
 show_downloads: false
 navigation:
