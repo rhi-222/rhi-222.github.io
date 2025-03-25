@@ -3,13 +3,6 @@ logo: /profile.png
 description: Aspiring Data Scientist | Environmental & Astronomical Data | Python • ML • Research
 theme: jekyll-theme-minimal
 
-# Custom CSS support
-include:
-  - assets/css
-
-sass:
-  style: compressed
-
 # Sidebar navigation
 show_downloads: false
 navigation:
