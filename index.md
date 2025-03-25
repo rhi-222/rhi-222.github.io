@@ -43,9 +43,8 @@ Developed ML models to predict **oil well success rates** for smarter investment
 This is where I reflect on the ideas, challenges, and discoveries I encounter as I grow into the data scientist I’m becoming.
 
 ### 📌 [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)
-From creative technology to scientific research, I’ve always been drawn to patterns and meaning.  
-Data science lets me merge curiosity, logic, and purpose in a field that constantly evolves and invites exploration.  
-*Posted: March 25, 2025*
+
+*Coming Soon*
 
 ---
 
