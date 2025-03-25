@@ -63,13 +63,23 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ## 📬 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/rhiannonfilli)  
-- Email: rhiannon.filli@gmail.com
+<p align="center">
+  <a href="mailto:rhiannon.filli@gmail.com" target="_blank">
+    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 8px; border: none; background-color: #383f50; color: #ebcfb1;">
+      Email Me
+    </button>
+  </a>
+
+  <a href="https://www.linkedin.com/in/rhiannonfilli" target="_blank">
+    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 8px; border: none; background-color: #383f50; color: #ebcfb1;">
+      LinkedIn
+    </button>
+  </a>
 
 ---
 ## 📄 My Resume 
 <a href="/rhi_resume.pdf" download style="font-size: 16px; text-decoration: none;">
-  <button style="padding: 10px 20px; font-size: 16px; border-radius: 8px; border: none; background-color: #383f50; color: white;">
+  <button style="padding: 10px 20px; font-size: 16px; border-radius: 8px; border: none; background-color: #383f50; color: #e07a5f;">
     Download 
   </button>
 </a>
