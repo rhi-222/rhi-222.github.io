@@ -7,4 +7,4 @@ author: "Rhi"
 *coming soon*
 
 ---
-[← Back to Home](/)
+[← Diaries Home](https://rhi-222.github.io/diaries)
