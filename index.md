@@ -50,9 +50,9 @@ I'm using this space to reflect on what I'm learning in data science—from my f
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=default&hide=prs)
+![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=calm&hide=prs)
 
 ---
 
