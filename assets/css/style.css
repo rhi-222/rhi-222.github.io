@@ -1,0 +1,32 @@
+/* Theme accent color */
+:root {
+  --accent-color: #9e77ff;
+}
+
+/* Style all section headings */
+h2 {
+  color: var(--accent-color);
+}
+
+/* Style custom nav links */
+.nav-link {
+  color: var(--accent-color);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+/* Buttons */
+button.custom {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  background-color: var(--accent-color);
+  color: white;
+  cursor: pointer;
+  margin: 5px;
+}
+
+button.custom:hover {
+  background-color: #7c5de5;
+}
