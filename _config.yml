@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
 title: Rhi
+logo: rhi-222.github.io/profile.png
 description: Aspiring Data Scientist | Environmental & Astronomical Data | Python • ML • Research
-logo: profile.png
+remote_theme: riggraz/no-style-please
+plugins:
+  - jekyll-remote-theme
