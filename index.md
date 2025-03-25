@@ -1,15 +1,14 @@
-<p align="center">
-  <a href="/">Home</a> |
-  <a href="/diaries">Data Diaries</a> |
-  <a href="https://github.com/rhi-222">GitHub</a>
-</p>
 ---
 layout: default
 title: Rhi Fillingham – Aspiring Data Scientist
 ---
 
 # 👋 Hi, I’m Rhi
-
+<p align="center">
+  <a href="/">Home</a> |
+  <a href="/diaries">Data Diaries</a> |
+  <a href="https://github.com/rhi-222">GitHub</a>
+</p>
 I’m an aspiring data scientist with the heart of a visionary and the mind of a scientist.
 
 Currently completing a data science bootcamp, I’m building a portfolio that blends **environmental science, astronomy, and research-driven exploration**—fields where I believe data has the power to uncover meaning and inspire impact.
