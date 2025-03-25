@@ -3,7 +3,7 @@ layout: default
 title: Rhi Fillingham – Aspiring Data Scientist
 ---
 
-# 👋 Hi, I’m Rhi
+# Hi, I’m Rhi 👩🏻‍💻✨
 <p align="center">
   <a href="/">Home</a> |
   <a href="/diaries">Data Diaries</a> |
@@ -41,7 +41,7 @@ Developed ML models to predict **oil well success rates** for smarter investment
 
 This is where I reflect on the ideas, challenges, and discoveries I encounter as I grow into the data scientist I’m becoming.
 
-### 📌 [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)
+### 🌙 [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)
 
 *Coming Soon*
 
