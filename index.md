@@ -2,12 +2,6 @@
 title: Rhi Fillingham – Aspiring Data Scientist
 ---
 
-<link rel="stylesheet" href="/assets/css/style.css">
-
-<p align="center" style="margin-bottom: 1.5rem;">
-  <a href="/diaries">Data Diaries</a> 
-</p>
-
 # Hi, I’m Rhi 👩🏻‍💻✨
 
 I’m an aspiring data scientist with the heart of a visionary and the mind of a scientist.
@@ -89,4 +83,5 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ---
 
-<p align="center"><em>Thanks for visiting – I’m always open to new opportunities, collaborations, and discoveries.</em> ✨</p>
+
+_Thanks for visiting – I’m always open to new opportunities, collaborations, and discoveries._ ✨
