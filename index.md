@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="/">Home</a> |
+  <a href="/diaries">Data Diaries</a> |
+  <a href="https://github.com/rhi-222">GitHub</a>
+</p>
 ---
 layout: default
 title: Rhi Fillingham – Aspiring Data Scientist
