@@ -5,3 +5,6 @@ author: "Rhi"
 ---
 
 *coming soon*
+
+---
+[← Back to Home](/)
