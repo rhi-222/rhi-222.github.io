@@ -1,21 +1,17 @@
-/* Theme accent color */
 :root {
   --accent-color: #9e77ff;
 }
 
-/* Style all section headings */
 h2 {
   color: var(--accent-color);
 }
 
-/* Style custom nav links */
 .nav-link {
   color: var(--accent-color);
   text-decoration: none;
   font-weight: 500;
 }
 
-/* Buttons */
 button.custom {
   padding: 10px 20px;
   font-size: 16px;
