@@ -75,6 +75,7 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
       LinkedIn
     </button>
   </a>
+</p>
 
 ---
 
