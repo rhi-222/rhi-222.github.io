@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Rhi Fillingham – Aspiring Data Scientist
 ---
 
