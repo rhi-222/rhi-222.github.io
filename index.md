@@ -20,7 +20,7 @@ title: Portfolio
   .page {
     max-width: auto;
     margin: auto;
-    padding: 1rem;
+    padding: 0rem;
   }
 
   /* ---------- Link style ---------- */
