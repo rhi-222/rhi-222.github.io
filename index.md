@@ -125,13 +125,14 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ---
 
-## Data Diaries
+## Recent Data Diaries
 
-This is where I reflect on the ideas, challenges, and discoveries I encounter as I grow into the data scientist I’m becoming.
+These are my latest reflections as I grow into the data scientist I’m becoming.
 
 <ul>
   {% for post in site.posts limit:3 %}
     <li>
+      <strong>{{ post.date | date: "%B %d, %Y" }}</strong> – 
       <a href="{{ post.url }}">{{ post.title }}</a>  
       <br>
       <em>{{ post.excerpt | strip_html | truncate: 100 }}</em>
