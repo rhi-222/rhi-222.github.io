@@ -1,14 +1,19 @@
-title: Rhi
+title: Rhi Fillingham
 logo: /profile.png
 description: Aspiring Data Scientist | Environmental & Astronomical Data | Python • ML • Research
-theme: minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 
-# Sidebar navigation
-show_downloads: false
-navigation:
-  - title: Home
+# Optional but useful
+plugins:
+  - jekyll-include-cache
+
+# Navigation links (now fully supported!)
+nav:
+  - title: 🏠 Home
     url: /
-  - title: Data Diaries
+  - title: 📓 Data Diaries
     url: /diaries
-  - title: GitHub Profile
+  - title: 💻 GitHub Profile
     url: https://github.com/rhi-222
+  - title: 📄 Resume
+    url: /rhi_resume.pdf
