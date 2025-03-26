@@ -47,6 +47,10 @@ title: TripleTen Projects
 }
 </style>
 
+<p align="center">
+  <a href="/" class="nav-link">← Back to Home</a>
+</p>
+
 ---
 
 # All TripleTen Projects
