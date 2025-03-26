@@ -55,51 +55,7 @@ title: Portfolio
   <a href="/diaries">
     <button class="custom-button btn-pink">My Data Diaries</button>
   </a>
-  <a href="https://github.com/rhi-222/tripleten-projects" target="_blank">
-    <button class="custom-button btn-green">My TripleTen Projects</button>
-  </a>
-</div>
-
----
-
-<div style="text-align: center; margin-top: 1rem;">
-  <a href="https://github.com/rhi-222/tripleten-projects" target="_blank">
-    <button class="custom-button btn-orange">View All TripleTen Projects</button>
-  </a>
-</div>
-
----
-
-<div style="text-align: center; margin-top: 1rem;">
-  <a href="/diaries">
-    <button class="custom-button btn-yellow">Explore All Data Diaries</button>
-  </a>
-</div>
-
----
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
-  <a href="mailto:rhiannon.filli@gmail.com" target="_blank">
-    <button class="custom-button btn-paper">Email Me</button>
-  </a>
-  <a href="https://www.linkedin.com/in/rhiannonfilli" target="_blank">
-    <button class="custom-button btn-paper">LinkedIn</button>
-  </a>
-</div>
-
-<div style="text-align: center;">
-  <a href="/rhi_resume.pdf" download>
-    <button class="custom-button btn-darkgreen">Download My Resume</button>
-  </a>
-</div>
-
----
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
-  <a href="/diaries">
-    <button class="custom-button btn-pink">My Data Diaries</button>
-  </a>
-  <a href="https://github.com/rhi-222/tripleten-projects" target="_blank">
+  <a href="https://github.com/rhi-222/tripleten-projects](https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
     <button class="custom-button btn-green">My TripleTen Projects</button>
   </a>
 </div>
@@ -153,13 +109,11 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 - [🎮 What Makes a Video Game a Best-Seller? (Project Article)](https://lying-nymphea-848.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86?pvs=4)  
   Key insights from EDA and hypothesis testing on what drives commercial success in the gaming industry.
   
-<p align="center" style="margin-top: 1.5rem; margin-bottom: 1rem;">
+<div style="text-align: center; margin-top: 1rem;">
   <a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
-    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: 1px solid #2A3030; background-color: #f4f4f4; color: #333; cursor: pointer;">
-      View All TripleTen Projects
-    </button>
+    <button class="custom-button btn-orange">View All TripleTen Projects</button>
   </a>
-</p>
+</div>
 
 ---
 
