@@ -12,7 +12,7 @@ title: Portfolio
 
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Open Sans', sans-serif;
-    font-weight: normal;
+    font-weight: 500;
     color: #374040;
   }
 
@@ -63,7 +63,7 @@ title: Portfolio
   }
 </style>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0px; margin-top: 2rem; border: 1px solid #374040;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0px; margin-top: 3rem;">
   <a href="/diaries">
     <button class="custom-button btn-yellow">My Data Diaries</button>
   </a>
@@ -145,7 +145,7 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ## Let’s Connect!
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 5px; margin-bottom: 1rem;">
   <a href="mailto:rhiannon.filli@gmail.com" target="_blank">
     <button class="custom-button btn-pink">Email Me</button>
   </a>
