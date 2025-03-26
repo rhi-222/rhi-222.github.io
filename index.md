@@ -62,7 +62,7 @@ title: Portfolio
 
 ---
 
-# ✦ Hi, I’m Rhi 👩🏻‍💻
+# Hi, I’m Rhi 👩🏻‍💻
 
 I’m an aspiring data scientist with the heart of a visionary and the mind of a scientist.
 
