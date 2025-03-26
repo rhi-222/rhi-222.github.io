@@ -78,7 +78,7 @@ A curated collection of data science projects completed as part of the <strong>T
 
 ---
 
-## <strong>Each project contains:</strong>
+## Each project contains:
 
 - A <strong>detailed README</strong> with project objectives, methodology, and results.  
 - <strong>Code</strong> for <strong>data cleaning, model training, and evaluation</strong>.  
