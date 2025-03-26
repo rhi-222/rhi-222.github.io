@@ -6,7 +6,7 @@ title: Data Diaries
 <style>
   body {
     background-color: #FAF5E9;
-    color: #374040;
+    color: #3D4844;
     font-family: 'Open Sans', sans-serif;/* Optional: dark text for better readability */
   }
     h1, h2, h3, h4, h5, h6 {
