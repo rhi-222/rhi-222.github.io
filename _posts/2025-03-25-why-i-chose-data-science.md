@@ -71,8 +71,10 @@ author: "Rhi"
 
 ---
 
-
 *coming soon*
 
 ---
-[← Diaries Home](https://rhi-222.github.io/diaries)
+
+<p align="center">
+  <a href="/" class="nav-link">← Diaries Home</a>
+</p>
