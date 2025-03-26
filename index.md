@@ -63,7 +63,7 @@ title: Portfolio
   }
 </style>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0px; margin-top: 3rem;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0px; margin-top: 2rem;">
   <a href="/diaries">
     <button class="custom-button btn-yellow">My Data Diaries</button>
   </a>
@@ -161,7 +161,9 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ---
 
-![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=gruvbox&hide=prs&hide_border=true)
+![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=graywhite&hide=prs&hide_border=true)
+
+![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=calm&hide=prs&hide_border=true)
 
 ---
 
