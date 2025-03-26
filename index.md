@@ -55,7 +55,7 @@ title: Portfolio
   <a href="/diaries">
     <button class="custom-button btn-yellow">My Data Diaries</button>
   </a>
-  <a href="https://github.com/rhi-222/tripleten-projects](https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
+  <a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
     <button class="custom-button btn-orange">My TripleTen Projects</button>
   </a>
 </div>
