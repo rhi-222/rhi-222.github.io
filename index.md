@@ -8,7 +8,7 @@ title: Portfolio
       📓 My Data Diaries
     </button>
   </a>
-  |
+|
   <a href="https://github.com/rhi-222/tripleten-projects" target="_blank">
     <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
       🎒 My TripleTen Projects
