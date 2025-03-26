@@ -25,6 +25,8 @@ title: Portfolio
   /* Hover Effect: Soft lift + brightness */
 .custom-button:hover {
   transform: scale(1.04);
+  background-color: transparent;
+  color: #2A3030;
 }
 </style>
 <!-- Data Diaries -->
@@ -60,7 +62,6 @@ title: Portfolio
       📓 My Data Diaries
     </button>
   </a>
- |
   <a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
     <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: 1px solid #2A3030; background-color: #f4f4f4; color: #333; cursor: pointer;">
       🎒 My TripleTen Projects
