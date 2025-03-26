@@ -3,7 +3,7 @@ title: Portfolio
 ---
 <style>
   body {
-    background-color: #F2EEE3;
+    background-color: #FAF5E9;
     color: #2A3030;
     font-family: 'Work Sans', sans-serif;/* Optional: dark text for better readability */
   }
