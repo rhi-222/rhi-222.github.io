@@ -12,7 +12,7 @@ title: Portfolio
 
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Open Sans', sans-serif;
-    font-weight: 500;
+    font-weight: 600;
     color: #374040;
   }
 
