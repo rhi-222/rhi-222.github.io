@@ -1,6 +1,9 @@
 ---
 title: Rhi Fillingham – Aspiring Data Scientist
 ---
+<p align="center">
+  <a href="/diaries">📓 Data Diaries</a> 
+</p>
 
 # Hi, I’m Rhi 👩🏻‍💻✨
 
@@ -46,12 +49,20 @@ Currently completing a data science bootcamp, I’m building a portfolio that bl
 
 ---
 
-## 🌙 Data Diaries
+## 📓 Data Diaries
 
 This is where I reflect on the ideas, challenges, and discoveries I encounter as I grow into the data scientist I’m becoming.
 
 - [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)  
   _Coming Soon_
+
+<p align="center">
+  <a href="/diaries">
+    <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
+      Explore All Data Diaries
+    </button>
+  </a>
+</p>
 
 ---
 
