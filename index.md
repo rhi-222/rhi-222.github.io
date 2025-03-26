@@ -1,38 +1,39 @@
 ---
 title: Portfolio
 ---
-<!-- Gold (#D7B569) -->
-<a href="#" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 2px solid #D7B569; background-color: transparent; color: #D7B569; cursor: pointer;">
-    Gold Button
+
+<!-- My Data Diaries -->
+<a href="/diaries" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 6px; border: 2px solid #2A3030; background-color: #D2E0D4; color: #2A3030; cursor: pointer;">
+    My Data Diaries
   </button>
 </a>
 
-<!-- Green (#7F9B7D) -->
-<a href="#" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 2px solid #7F9B7D; background-color: transparent; color: #7F9B7D; cursor: pointer;">
-    Green Button
+<!-- TripleTen Projects -->
+<a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 6px; border: 2px solid #2A3030; background-color: #EED8C8; color: #2A3030; cursor: pointer;">
+    My TripleTen Projects
   </button>
 </a>
 
-<!-- Coral (#F96C60) -->
-<a href="#" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 2px solid #F96C60; background-color: transparent; color: #F96C60; cursor: pointer;">
-    Coral Button
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/rhiannonfilli" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 6px; border: 2px solid #2A3030; background-color: #F3AC6F; color: #2A3030; cursor: pointer;">
+    LinkedIn
   </button>
 </a>
 
-<!-- Navy Blue (#2F52A0) -->
-<a href="#" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 2px solid #2F52A0; background-color: transparent; color: #2F52A0; cursor: pointer;">
-    Navy Button
+<!-- Email Me -->
+<a href="mailto:rhiannon.filli@gmail.com" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 6px; border: 2px solid #2A3030; background-color: #D2D2AE; color: #2A3030; cursor: pointer;">
+    Email Me
   </button>
 </a>
 
-<!-- Clay Beige (#CCBFA1) -->
-<a href="#" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 2px solid #CCBFA1; background-color: transparent; color: #CCBFA1; cursor: pointer;">
-    Clay Beige Button
+<!-- Resume -->
+<a href="/rhi_resume.pdf" download>
+  <button style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 6px; border: 2px solid #2A3030; background-color: #748A80; color: #F2EEE3; cursor: pointer;">
+    Download My Resume
   </button>
 </a>
 
