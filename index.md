@@ -1,42 +1,58 @@
 ---
 title: Portfolio
 ---
+<style>
+  .custom-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 6px;
+    border-radius: 8px;
+    border: 2px solid #2A3030;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+    display: inline-block;
+    text-align: center;
+  }
 
-<!-- My Data Diaries -->
-<a href="/diaries" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 6px; border: 1px solid #2A3030; background-color: #D2E0D4; color: #2A3030; cursor: pointer;">
-    My Data Diaries
-  </button>
+  /* Button Variants */
+  .btn-green { background-color: #D2E0D4; color: #2A3030; }
+  .btn-pink  { background-color: #EED8C8; color: #2A3030; }
+  .btn-orange { background-color: #F3AC6F; color: #2A3030; }
+  .btn-yellow { background-color: #D2D2AE; color: #2A3030; }
+  .btn-darkgreen { background-color: #748A80; color: #F2EEE3; }
+
+  /* Hover Effect: Soft lift + brightness */
+  .custom-button:hover {
+    filter: brightness(0.95);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+</style>
+<!-- Data Diaries -->
+<a href="/diaries">
+  <button class="custom-button btn-green">My Data Diaries</button>
 </a>
 
 <!-- TripleTen Projects -->
 <a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 6px; border: 1px solid #2A3030; background-color: #EED8C8; color: #2A3030; cursor: pointer;">
-    My TripleTen Projects
-  </button>
+  <button class="custom-button btn-pink">My TripleTen Projects</button>
 </a>
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/rhiannonfilli" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 6px; border: 1px solid #2A3030; background-color: #F3AC6F; color: #2A3030; cursor: pointer;">
-    LinkedIn
-  </button>
+  <button class="custom-button btn-orange">LinkedIn</button>
 </a>
 
-<!-- Email Me -->
-<a href="mailto:rhiannon.filli@gmail.com" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 6px; border: 1px solid #2A3030; background-color: #D2D2AE; color: #2A3030; cursor: pointer;">
-    Email Me
-  </button>
+<!-- Email -->
+<a href="mailto:rhiannon.filli@gmail.com">
+  <button class="custom-button btn-yellow">Email Me</button>
 </a>
 
 <!-- Resume -->
 <a href="/rhi_resume.pdf" download>
-  <button style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 6px; border: 1px solid #2A3030; background-color: #748A80; color: #F2EEE3; cursor: pointer;">
-    Download My Resume
-  </button>
+  <button class="custom-button btn-darkgreen">Download My Resume</button>
 </a>
-
 ---
 
 <p align="center">
