@@ -103,7 +103,7 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ## 📊 GitHub Stats
 
-![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=vue&hide=prs&hide_border=true)
+![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=tokyonight-light&hide=prs&hide_border=true)
 
 ---
 
