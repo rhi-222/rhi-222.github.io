@@ -150,7 +150,7 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ---
 
-![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=default&hide=prs&hide_border=true)
+![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=gruvbox&hide=prs&hide_border=true)
 
 ---
 
