@@ -46,6 +46,11 @@ title: Data Diaries
   filter: brightness(1.07);
 }
 </style>
+
+<p align="center">
+  <a href="/" class="nav-link">← Back to Home</a>
+</p>
+
 ---
 
 # Data Diaries 📓
