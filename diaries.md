@@ -1,12 +1,10 @@
 ---
 title: Data Diaries
 ---
-<!-- Load Prata font from Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Prata&display=swap" rel="stylesheet">
 <style>
   body {
     background-color: #FAF5E9;
-    color: #3D4844;
+    color: #374040;
     font-family: 'Open Sans', sans-serif;/* Optional: dark text for better readability */
   }
     h1, h2, h3, h4, h5, h6 {
@@ -48,7 +46,6 @@ title: Data Diaries
   filter: brightness(1.07);
 }
 </style>
-
 ---
 
 # Data Diaries 📓
