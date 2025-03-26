@@ -18,16 +18,9 @@ title: Portfolio
 
   /* ---------- Main content width (no overlap!) ---------- */
   .page {
-    max-width: 1160px;
+    max-width: auto;
     margin: auto;
     padding: 1rem;
-  }
-
-  /* ---------- Sidebar image ---------- */
-  .sidebar img {
-    width: 100%;
-    max-width: 220px;
-    border-radius: 8px;
   }
 
   /* ---------- Link style ---------- */
@@ -67,12 +60,6 @@ title: Portfolio
   .custom-button:hover {
     transform: scale(1.00);
     filter: brightness(1.07);
-  }
-
-  /* Optional: Reduce bullet symbol size if using ✧ etc. */
-  .emoji-bullet {
-    font-size: 10px;
-    line-height: 1.2;
   }
 </style>
 ---
