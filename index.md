@@ -37,7 +37,7 @@ title: Portfolio
   /* Hover Effect: Soft lift + brightness */
 .custom-button:hover {
   transform: scale(1.00);
-  filter: brightness(1.05);
+  filter: brightness(1.07);
 }
 </style>
 
