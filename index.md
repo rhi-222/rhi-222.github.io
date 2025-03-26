@@ -8,6 +8,7 @@ title: Portfolio
       📓 My Data Diaries
     </button>
   </a>
+  |
   <a href="https://github.com/rhi-222/tripleten-projects" target="_blank">
     <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
       🎒 My TripleTen Projects
@@ -107,20 +108,6 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
   <a href="/rhi_resume.pdf" download>
     <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
       Download My Resume
-    </button>
-  </a>
-</p>
-
-📄 [Download My Resume (PDF)](/rhi_resume.pdf)
-
----
-
-## My Resume
-
-<p align="center">
-  <a href="/rhi_resume.pdf" download>
-    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
-      Download Resume
     </button>
   </a>
 </p>
