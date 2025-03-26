@@ -7,7 +7,7 @@ title: Portfolio
     font-size: 16px;
     margin: 6px;
     border-radius: 8px;
-    border: 2px solid #2A3030;
+    border: 1px solid #2A3030;
     cursor: pointer;
     font-weight: 500;
     transition: all 0.2s ease-in-out;
@@ -23,11 +23,9 @@ title: Portfolio
   .btn-darkgreen { background-color: #748A80; color: #F2EEE3; }
 
   /* Hover Effect: Soft lift + brightness */
-  .custom-button:hover {
-    filter: brightness(0.95);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
-    transform: translateY(-2px);
-  }
+.custom-button:hover {
+  transform: scale(1.04);
+}
 </style>
 <!-- Data Diaries -->
 <a href="/diaries">
@@ -53,6 +51,7 @@ title: Portfolio
 <a href="/rhi_resume.pdf" download>
   <button class="custom-button btn-darkgreen">Download My Resume</button>
 </a>
+
 ---
 
 <p align="center">
