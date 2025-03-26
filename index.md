@@ -1,6 +1,8 @@
 ---
 title: Portfolio
 ---
+<!-- Load Prata font from Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Prata&display=swap" rel="stylesheet">
 <style>
   body {
     background-color: #FAF5E9;
