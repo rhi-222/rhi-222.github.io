@@ -1,4 +1,15 @@
 title: Rhi Fillingham
 logo: /profile.png
-description: Data Science | Environmental & Astronomical Data | Python • ML • SQL
+description: >
+  Data Science | Environmental & Astronomical Data  
+  Python • ML • SQL
 theme: jekyll-theme-minimal
+# Sidebar nav (optional)
+show_downloads: false
+navigation:
+  - title: Home
+    url: /
+  - title: Data Diaries
+    url: /diaries
+  - title: TripleTen Projects
+    url: /projects
