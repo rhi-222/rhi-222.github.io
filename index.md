@@ -53,10 +53,10 @@ title: Portfolio
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
   <a href="/diaries">
-    <button class="custom-button btn-pink">My Data Diaries</button>
+    <button class="custom-button btn-yellow">My Data Diaries</button>
   </a>
   <a href="https://github.com/rhi-222/tripleten-projects](https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
-    <button class="custom-button btn-green">My TripleTen Projects</button>
+    <button class="custom-button btn-orange">My TripleTen Projects</button>
   </a>
 </div>
 
@@ -136,10 +136,10 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
   <a href="mailto:rhiannon.filli@gmail.com" target="_blank">
-    <button class="custom-button btn-paper">Email Me</button>
+    <button class="custom-button btn-pink">Email Me</button>
   </a>
   <a href="https://www.linkedin.com/in/rhiannonfilli" target="_blank">
-    <button class="custom-button btn-paper">LinkedIn</button>
+    <button class="custom-button btn-green">LinkedIn</button>
   </a>
 </div>
 
