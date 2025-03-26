@@ -51,13 +51,9 @@ title: TripleTen Projects
 
 ---
 
-# Data Projects From TripleTen
+## <strong>All TripleTen Projects</strong>
 
-A curated collection of <strong>data science projects</strong> completed as part of the <strong>TripleTen Data Science Bootcamp</strong>. Each project demonstrates <strong>real-world applications</strong> of machine learning, data analysis, and model deployment.
-
----
-
-## <strong>All Projects</strong>
+A curated collection of data science projects completed as part of the <strong>TripleTen Data Science Bootcamp</strong>. Each project demonstrates real-world applications of machine learning, data analysis, and model deployment.
 
 - <strong><a href="https://github.com/rhi-222/telecom-churn-prediction" target="_blank">Telecom Churn Prediction</a></strong>  
   <em>Developed a predictive model to identify telecom customers at risk of churn.</em>
