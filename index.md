@@ -5,7 +5,7 @@ title: Portfolio
 <p align="center">
   <a href="/diaries">
     <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
-      📓 My Data Diaries
+      📓 My Data Diaries 
     </button>
   </a>
 |
