@@ -69,11 +69,7 @@ author: "Rhi"
   }
 </style>
 
----
-
 *coming soon*
-
----
 
 <p align="center">
   <a href="/" class="nav-link">← Diaries Home</a>
