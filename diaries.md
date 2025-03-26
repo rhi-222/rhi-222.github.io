@@ -7,7 +7,7 @@ title: Data Diaries
     background-color: #FAF5E9;
     color: #374040;
     font-family: 'Open Sans', sans-serif;
-    padding: 0rem;
+    padding: 1rem;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -20,7 +20,7 @@ title: Data Diaries
   .page {
     max-width: auto;
     margin: auto;
-    padding: 0rem;
+    padding: 1rem;
   }
 
   /* ---------- Link style ---------- */
