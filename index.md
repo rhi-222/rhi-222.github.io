@@ -29,6 +29,7 @@ title: Portfolio
   /* Button Variants */
   .btn-green { background-color: #D2E0D4; color: #2A3030; }
   .btn-pink  { background-color: #EED8C8; color: #2A3030; }
+  .btn-paper { background-color: #F2EEE3; color: #2A3030; }
   .btn-orange { background-color: #F3AC6F; color: #2A3030; }
   .btn-yellow { background-color: #D2D2AE; color: #2A3030; }
   .btn-darkgreen { background-color: #748A80; color: #F2EEE3; }
@@ -63,7 +64,7 @@ title: Portfolio
 
 <div style="text-align: center; margin-top: 1rem;">
   <a href="/diaries">
-    <button class="custom-button btn-green">Explore All Data Diaries</button>
+    <button class="custom-button btn-paper">Explore All Data Diaries</button>
   </a>
 </div>
 
