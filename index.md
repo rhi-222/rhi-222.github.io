@@ -5,7 +5,11 @@ title: Portfolio
   body {
     background-color: #FAF5E9;
     color: #374040;
-    font-family: 'Prata', sans-serif;/* Optional: dark text for better readability */
+    font-family: 'Prata', serif;/* Optional: dark text for better readability */
+  }
+    h1, h2, h3, h4, h5, h6 {
+    font-family: 'Prata', serif;
+    font-weight: normal;
   }
     /* Global link color override for Jekyll theme-minimal */
   a {
@@ -26,6 +30,7 @@ title: Portfolio
     border: 1px solid #374040;
     cursor: pointer;
     font-weight: 500;
+    font-family: 'Prata', serif;
     transition: all 0.2s ease-in-out;
     display: inline-block;
     text-align: center;
