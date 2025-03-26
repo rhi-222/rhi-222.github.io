@@ -65,6 +65,13 @@ author: "Rhi"
   }
 </style>
 
+<p align="center">
+  <a href="/" class="nav-link">← Diaries Home</a>
+</p>
+
+---
+
+
 *coming soon*
 
 ---
