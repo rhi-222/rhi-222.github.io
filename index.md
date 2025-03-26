@@ -87,18 +87,14 @@ title: Portfolio
 
 ---
 
-<p align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
   <a href="/diaries">
-    <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 1px solid #2A3030; background-color: #f4f4f4; color: #333; cursor: pointer;">
-      📓 My Data Diaries
-    </button>
+    <button class="custom-button btn-paper">My Data Diaries</button>
   </a>
-  <a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
-    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: 1px solid #2A3030; background-color: #f4f4f4; color: #333; cursor: pointer;">
-      🎒 My TripleTen Projects
-    </button>
+  <a href="https://github.com/rhi-222/tripleten-projects" target="_blank">
+    <button class="custom-button btn-paper">My TripleTen Projects</button>
   </a>
-</p>
+</div>
 
 ---
 
