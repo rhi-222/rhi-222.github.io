@@ -7,10 +7,10 @@ title: Portfolio
   body {
     background-color: #FAF5E9;
     color: #374040;
-    font-family: 'Prata', serif;/* Optional: dark text for better readability */
+    font-family: 'Open Sans', sans-serif;/* Optional: dark text for better readability */
   }
     h1, h2, h3, h4, h5, h6 {
-    font-family: 'Prata', serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: normal;
   }
     /* Global link color override for Jekyll theme-minimal */
@@ -19,7 +19,6 @@ title: Portfolio
     text-decoration: none;
     font-weight: bold;
   }
-
   a:hover {
     color: #3D4844; 
     text-decoration: none;
@@ -37,7 +36,6 @@ title: Portfolio
     display: inline-block;
     text-align: center;
   }
-
   /* Button Variants */
   .btn-green { background-color: #D2E0D4; color: #2A3030; }
   .btn-pink  { background-color: #EED8C8; color: #2A3030; }
@@ -45,7 +43,6 @@ title: Portfolio
   .btn-orange { background-color: #F3AC6F; color: #2A3030; }
   .btn-yellow { background-color: #D2D2AE; color: #2A3030; }
   .btn-darkgreen { background-color: #748A80; color: #F2EEE3; }
-
   /* Hover Effect: Soft lift + brightness */
 .custom-button:hover {
   transform: scale(1.00);
