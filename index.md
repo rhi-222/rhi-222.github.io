@@ -30,7 +30,7 @@ title: Portfolio
   .btn-green { background-color: #D2E0D4; color: #2A3030; }
   .btn-pink  { background-color: #EED8C8; color: #2A3030; }
   .btn-paper { background-color: #F2EEE3; color: #2A3030; }
-  .btn-blue { background-color: #2A3030; color: #F2EEE3; }
+  .btn-blue { background-color: #374040; color: #F2EEE3; }
   .btn-orange { background-color: #F3AC6F; color: #2A3030; }
   .btn-yellow { background-color: #D2D2AE; color: #2A3030; }
   .btn-darkgreen { background-color: #748A80; color: #F2EEE3; }
@@ -65,7 +65,7 @@ title: Portfolio
 
 <div style="text-align: center; margin-top: 1rem;">
   <a href="/diaries">
-    <button class="custom-button btn-paper">Explore All Data Diaries</button>
+    <button class="custom-button btn-yellow">Explore All Data Diaries</button>
   </a>
 </div>
 
@@ -73,10 +73,10 @@ title: Portfolio
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
   <a href="mailto:rhiannon.filli@gmail.com" target="_blank">
-    <button class="custom-button btn-yellow">Email Me</button>
+    <button class="custom-button btn-paper">Email Me</button>
   </a>
   <a href="https://www.linkedin.com/in/rhiannonfilli" target="_blank">
-    <button class="custom-button btn-orange">LinkedIn</button>
+    <button class="custom-button btn-paper">LinkedIn</button>
   </a>
 </div>
 
