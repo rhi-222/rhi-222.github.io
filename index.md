@@ -7,7 +7,7 @@ title: Portfolio
     background-color: #FAF5E9;
     color: #374040;
     font-family: 'Open Sans', sans-serif;
-    padding: 2rem;
+    padding: 1rem;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -18,9 +18,9 @@ title: Portfolio
 
   /* ---------- Main content width (no overlap!) ---------- */
   .page {
-    max-width: 960px;
+    max-width: 1160px;
     margin: auto;
-    padding: 2rem;
+    padding: 1rem;
   }
 
   /* ---------- Sidebar image ---------- */
