@@ -1,8 +1,6 @@
 ---
 title: Portfolio
 ---
-<!-- Load Prata font from Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Prata&display=swap" rel="stylesheet">
 <style>
   body {
     background-color: #FAF5E9;
@@ -72,7 +70,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ---
 
-## ✧ About Me
+## <span style="font-size: 0.85em">✧</span> About Me
 
 - 🖥️ **Core Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Machine Learning (Supervised & Unsupervised), Deep Learning (CNNs), Data Visualization  
 - 📊 **Focus**: Data Science & Predictive Modeling  
@@ -81,7 +79,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ---
 
-## ✧ Tech Stack
+## <span style="font-size: 0.85em">✧</span> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
