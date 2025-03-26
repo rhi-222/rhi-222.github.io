@@ -26,4 +26,3 @@ _Coming Soon_
 <p align="center">
   <a href="/" class="nav-link">← Back to Home</a>
 </p>
-</section>
