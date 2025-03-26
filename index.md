@@ -5,7 +5,7 @@ title: Portfolio
   body {
     background-color: #F2EEE3;
     color: #2A3030;
-    font-family: Georgia, 'Times New Roman', serif;/* Optional: dark text for better readability */
+    font-family: 'Work Sans', sans-serif;/* Optional: dark text for better readability */
   }
     /* Global link color override for Jekyll theme-minimal */
   a {
