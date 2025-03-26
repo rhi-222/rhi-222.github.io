@@ -4,12 +4,3 @@ description: >
   Data Science |
   Python • ML • SQL
 theme: jekyll-theme-minimal
-# Sidebar nav (optional)
-show_downloads: false
-navigation:
-  - title: Home
-    url: /
-  - title: Data Diaries
-    url: /diaries
-  - title: TripleTen Projects
-    url: /projects
