@@ -24,8 +24,7 @@ title: Portfolio
 
   /* Hover Effect: Soft lift + brightness */
 .custom-button:hover {
-  transform: scale(1.04);
-  letter-spacing: 0.5px;
+  transform: scale(1.02);
   filter: brightness(1.05);
 }
 </style>
