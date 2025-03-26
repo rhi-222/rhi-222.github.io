@@ -25,10 +25,11 @@ title: Portfolio
   /* Hover Effect: Soft lift + brightness */
 .custom-button:hover {
   transform: scale(1.04);
-  background-color: transparent;
-  color: #2A3030;
+  letter-spacing: 0.5px;
+  filter: brightness(1.05);
 }
 </style>
+
 <!-- Data Diaries -->
 <a href="/diaries">
   <button class="custom-button btn-green">My Data Diaries</button>
