@@ -40,6 +40,8 @@ title: Portfolio
 }
 </style>
 
+---
+
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
   <a href="/diaries">
     <button class="custom-button btn-green">My Data Diaries</button>
