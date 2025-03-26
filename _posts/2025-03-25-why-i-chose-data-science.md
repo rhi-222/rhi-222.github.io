@@ -1,9 +1,3 @@
-
-
-<p align="center">
-  <a href="/" class="nav-link">← Diaries Home</a>
-</p>
-
 ---
 layout: post
 title: "Why I Chose Data Science"
