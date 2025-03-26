@@ -64,8 +64,8 @@ A curated collection of **data science projects** completed as part of the **Tri
   *Implemented a supervised learning model to predict customer churn for a financial institution.*  
 - **[SQL + Data Collection Project](https://github.com/rhi-222/chicago-taxi-sql-analysis)**  
   *Exploring database management, querying, and data extraction using SQL.*
-- **[What Makes a Video Game a Best-Seller? (Project Article)](https://lying-nymphea-848.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86?pvs=4)**
-  *Key insights from EDA and hypothesis testing on what drives commercial success in the gaming industry.*
+- **[Video Game Sales Project Article](https://lying-nymphea-848.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86?pvs=4)**  
+  *What makes a video game a best-seller? EDA and hypothesis testing on what drives success in the gaming industry.*
 - **Streamlit Web App (Coming Soon)**  
   *Deploying an interactive data visualization dashboard with Streamlit.*
 
