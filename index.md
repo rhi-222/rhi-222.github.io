@@ -70,7 +70,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ---
 
-## <span style="font-size: 8px;">✦</span> About Me
+## ☞ About Me
 
 - 🖥️ **Core Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Machine Learning (Supervised & Unsupervised), Deep Learning (CNNs), Data Visualization  
 - 📊 **Focus**: Data Science & Predictive Modeling  
@@ -79,7 +79,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ---
 
-## <span style="font-size: 8px;">✦</span> Tech Stack
+## ☞ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -93,7 +93,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ---
 
-## <span style="font-size: 8px;">✦</span> Featured Projects
+## ☞ Featured Projects
 
 - [📡 Telecom Churn Prediction](https://github.com/rhi-222/telecom-churn-prediction)  
   Built predictive models to identify high-risk customers, achieving an **AUC-ROC score of 0.85**.
@@ -115,7 +115,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ---
 
-## <span style="font-size: 8px;">✦</span> Data Diaries
+## ☞ Data Diaries
 
 This is where I reflect on the ideas, challenges, and discoveries I encounter as I grow into the data scientist I’m becoming.
 
@@ -130,7 +130,7 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ---
 
-## <span style="font-size: 8px;">✦</span> Let’s Connect!
+## ☞ Let’s Connect!
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
   <a href="mailto:rhiannon.filli@gmail.com" target="_blank">
@@ -149,7 +149,7 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ---
 
-![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=transparent&hide=prs&hide_border=true)
+![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=default&hide=prs&hide_border=true)
 
 ---
 
