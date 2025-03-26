@@ -53,6 +53,22 @@ title: Portfolio
 
 ---
 
+<div style="text-align: center; margin-top: 1rem;">
+  <a href="https://github.com/rhi-222/tripleten-projects" target="_blank">
+    <button class="custom-button btn-pink">View All TripleTen Projects</button>
+  </a>
+</div>
+
+---
+
+<div style="text-align: center; margin-top: 1rem;">
+  <a href="/diaries">
+    <button class="custom-button btn-green">Explore All Data Diaries</button>
+  </a>
+</div>
+
+---
+
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
   <a href="mailto:rhiannon.filli@gmail.com" target="_blank">
     <button class="custom-button btn-yellow">Email Me</button>
