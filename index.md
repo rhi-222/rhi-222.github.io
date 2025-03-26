@@ -168,7 +168,6 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
     <button class="custom-button btn-green">LinkedIn</button>
   </a>
 </div>
-
 <div style="text-align: center;">
   <a href="/rhi_resume.pdf" download>
     <button class="custom-button btn-darkgreen">Download My Resume</button>
