@@ -4,7 +4,7 @@ title: Portfolio
 
 <!-- My Data Diaries -->
 <a href="/diaries" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 6px; border: 2px solid #2A3030; background-color: #D2E0D4; color: #2A3030; cursor: pointer;">
+  <button style="padding: 10px 20px; font-size: 16px; margin: 5px; border-radius: 6px; border: 1px solid #2A3030; background-color: #D2E0D4; color: #2A3030; cursor: pointer;">
     My Data Diaries
   </button>
 </a>
