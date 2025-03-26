@@ -129,9 +129,16 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 This is where I reflect on the ideas, challenges, and discoveries I encounter as I grow into the data scientist I’m becoming.
 
-- [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)  
-  _Coming Soon_
-  
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>  
+      <br>
+      <em>{{ post.excerpt | strip_html | truncate: 100 }}</em>
+    </li>
+  {% endfor %}
+</ul>
+
 <div style="text-align: center; margin-top: 1rem;">
   <a href="/diaries">
     <button class="custom-button btn-yellow">↳ Explore All Posts</button>
