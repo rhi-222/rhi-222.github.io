@@ -62,7 +62,6 @@ title: Portfolio
     filter: brightness(1.07);
   }
 </style>
----
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
   <a href="/diaries">
@@ -72,7 +71,6 @@ title: Portfolio
     <button class="custom-button btn-orange">My TripleTen Projects</button>
   </a>
 </div>
-
 ---
 
 # Hi, I’m Rhi 👩🏻‍💻✨
