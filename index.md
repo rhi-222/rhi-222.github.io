@@ -11,7 +11,7 @@ title: Portfolio
 
   a:hover {
     color: #2A3030; /* Ink */
-    text-decoration: underline;
+    text-decoration: none;
   }
   .custom-button {
     padding: 10px 20px;
@@ -40,30 +40,31 @@ title: Portfolio
 }
 </style>
 
-<!-- Data Diaries -->
-<a href="/diaries">
-  <button class="custom-button btn-green">My Data Diaries</button>
-</a>
-    
-  <!-- TripleTen Projects -->
-<a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
-  <button class="custom-button btn-pink">My TripleTen Projects</button>
-</a>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
+  <a href="/diaries">
+    <button class="custom-button btn-green">My Data Diaries</button>
+  </a>
+  <a href="https://github.com/rhi-222/tripleten-projects" target="_blank">
+    <button class="custom-button btn-pink">My TripleTen Projects</button>
+  </a>
+</div>
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/rhiannonfilli" target="_blank">
-  <button class="custom-button btn-orange">LinkedIn</button>
-</a>
+---
 
-<!-- Email -->
-<a href="mailto:rhiannon.filli@gmail.com">
-  <button class="custom-button btn-yellow">Email Me</button>
-</a>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
+  <a href="mailto:rhiannon.filli@gmail.com" target="_blank">
+    <button class="custom-button btn-yellow">Email Me</button>
+  </a>
+  <a href="https://www.linkedin.com/in/rhiannonfilli" target="_blank">
+    <button class="custom-button btn-orange">LinkedIn</button>
+  </a>
+</div>
 
-<!-- Resume -->
-<a href="/rhi_resume.pdf" download>
-  <button class="custom-button btn-darkgreen">Download My Resume</button>
-</a>
+<div style="text-align: center;">
+  <a href="/rhi_resume.pdf" download>
+    <button class="custom-button btn-darkgreen">Download My Resume</button>
+  </a>
+</div>
 
 ---
 
