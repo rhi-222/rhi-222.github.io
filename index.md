@@ -113,9 +113,6 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 - [🧑‍🎨 Human Age Prediction (Deep Learning)](https://github.com/rhi-222/human-age-prediction)  
   Trained a **CNN model** for age estimation with an **MAE of 7.1 years**.
-
-- [⛽ Oil Well Profitability Prediction](https://github.com/rhi-222/oil-well-prediction)  
-  Developed ML models to predict **oil well success rates** for smarter investment decisions.
   
 - [🎮 What Makes a Video Game a Best-Seller? (Project Article)](https://lying-nymphea-848.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86?pvs=4)  
   Key insights from EDA and hypothesis testing on what drives commercial success in the gaming industry.
@@ -137,7 +134,7 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 <div style="text-align: center; margin-top: 1rem;">
   <a href="/diaries">
-    <button class="custom-button btn-yellow">Explore All Data Diaries</button>
+    <button class="custom-button btn-yellow">Explore All Posts</button>
   </a>
 </div>
 
@@ -145,7 +142,7 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ## Let’s Connect!
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 5px; margin-bottom: 1rem;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0px; margin-bottom: 0rem;">
   <a href="mailto:rhiannon.filli@gmail.com" target="_blank">
     <button class="custom-button btn-pink">Email Me</button>
   </a>
@@ -160,8 +157,6 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 </div>
 
 ---
-
-![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=graywhite&hide=prs&hide_border=true)
 
 ![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=calm&hide=prs&hide_border=true)
 
