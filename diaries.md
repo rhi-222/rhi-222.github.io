@@ -51,7 +51,7 @@ title: Data Diaries
 
 ---
 
-## 📓 Data Diaries
+# Data Diaries 📓
 
 Reflections on my journey as an aspiring data scientist—what I’m learning, building, and discovering along the way.
 
