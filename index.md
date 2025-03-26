@@ -6,7 +6,7 @@ title: Portfolio
   a {
     color: #748A80; /* Forest */
     text-decoration: none;
-    font-weight: 500;
+    font-weight: bold;
   }
 
   a:hover {
