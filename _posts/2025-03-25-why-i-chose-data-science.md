@@ -70,9 +70,19 @@ author: "Rhi"
     transform: scale(1.00);
     filter: brightness(1.07);
   }
+  .diary-entry {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    max-width: 800px;
+    margin: 2rem auto;
+  }
 </style>
 
-*coming soon*
+<div class="diary-entry">
+  <p><em>Coming soon...</em></p>
+</div>
 
 ---
 
