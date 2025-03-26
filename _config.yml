@@ -7,13 +7,3 @@ remote_theme: jekyll-theme-minimal
 plugins:
   - jekyll-include-cache
 
-# Navigation links (now fully supported!)
-nav:
-  - title: 🏠 Home
-    url: /
-  - title: 📓 Data Diaries
-    url: /diaries
-  - title: 💻 GitHub Profile
-    url: https://github.com/rhi-222
-  - title: 📄 Resume
-    url: /rhi_resume.pdf
