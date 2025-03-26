@@ -1,9 +1,16 @@
 ---
 title: Rhi Fillingham – Aspiring Data Scientist
 ---
+
 <p align="center">
-  <a href="/diaries">📓 Data Diaries</a> 
+  <a href="/diaries">
+    <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
+      📓 The Data Diaries
+    </button>
+  </a>
 </p>
+
+---
 
 # Hi, I’m Rhi 👩🏻‍💻✨
 
@@ -68,13 +75,17 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ## 📬 Let’s Connect!
 
-<p align="center">
+<p align="center" style="margin-top: 1rem; margin-bottom: 1rem;">
   <a href="mailto:rhiannon.filli@gmail.com" target="_blank">
-    <button class="custom">Email Me</button>
+    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #383f50; color: #ebcfb1; cursor: pointer;">
+      Email Me
+    </button>
   </a>
 
   <a href="https://www.linkedin.com/in/rhiannonfilli" target="_blank">
-    <button class="custom">LinkedIn</button>
+    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #383f50; color: #ebcfb1; cursor: pointer;">
+      LinkedIn
+    </button>
   </a>
 </p>
 
@@ -82,9 +93,11 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ## 📄 My Resume
 
-<a href="/rhi_resume.pdf" download>
-  <button class="custom">Download Resume</button>
-</a>
+  <a href="/rhi_resume.pdf" download>
+    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #383f50; color: #ebcfb1; cursor: pointer;">
+      Download Resume
+    </button>
+  </a>
 
 ---
 
