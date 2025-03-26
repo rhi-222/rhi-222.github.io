@@ -31,7 +31,6 @@ title: Portfolio
     border: 1px solid #374040;
     cursor: pointer;
     font-weight: 500;
-    font-family: 'Prata', serif;
     transition: all 0.2s ease-in-out;
     display: inline-block;
     text-align: center;
