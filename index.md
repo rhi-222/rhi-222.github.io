@@ -55,7 +55,7 @@ title: Portfolio
   <a href="/diaries">
     <button class="custom-button btn-yellow">My Data Diaries</button>
   </a>
-  <a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
+  <a href="/projects" target="_blank">
     <button class="custom-button btn-orange">My TripleTen Projects</button>
   </a>
 </div>
@@ -110,7 +110,7 @@ Iâ€™m especially drawn to projects that combine data with purpose, whether thatâ
   Key insights from EDA and hypothesis testing on what drives commercial success in the gaming industry.
   
 <div style="text-align: center; margin-top: 1rem;">
-  <a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
+  <a href="/projects" target="_blank">
     <button class="custom-button btn-orange">View All TripleTen Projects</button>
   </a>
 </div>
