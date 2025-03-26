@@ -81,5 +81,5 @@ tags: []
 ---
 
 <p align="center">
-  <a href="/" class="nav-link">← Diaries Home</a>
+  <a href="/diaries" class="nav-link">← Diaries Home</a>
 </p>
