@@ -30,7 +30,6 @@ title: Portfolio
   .btn-green { background-color: #D2E0D4; color: #2A3030; }
   .btn-pink  { background-color: #EED8C8; color: #2A3030; }
   .btn-paper { background-color: #F2EEE3; color: #2A3030; }
-  .btn-blue { background-color: #374040; color: #F2EEE3; }
   .btn-orange { background-color: #F3AC6F; color: #2A3030; }
   .btn-yellow { background-color: #D2D2AE; color: #2A3030; }
   .btn-darkgreen { background-color: #748A80; color: #F2EEE3; }
@@ -49,7 +48,7 @@ title: Portfolio
     <button class="custom-button btn-green">My Data Diaries</button>
   </a>
   <a href="https://github.com/rhi-222/tripleten-projects" target="_blank">
-    <button class="custom-button btn-orange">My TripleTen Projects</button>
+    <button class="custom-button btn-pink">My TripleTen Projects</button>
   </a>
 </div>
 
@@ -57,7 +56,7 @@ title: Portfolio
 
 <div style="text-align: center; margin-top: 1rem;">
   <a href="https://github.com/rhi-222/tripleten-projects" target="_blank">
-    <button class="custom-button btn-blue">View All TripleTen Projects</button>
+    <button class="custom-button btn-orange">View All TripleTen Projects</button>
   </a>
 </div>
 
