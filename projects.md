@@ -1,8 +1,6 @@
 ---
 title: TripleTen Projects
 ---
-<!-- Load Prata font from Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Prata&display=swap" rel="stylesheet">
 <style>
   body {
     background-color: #FAF5E9;
@@ -51,7 +49,7 @@ title: TripleTen Projects
 
 ---
 
-# <strong>All TripleTen Projects</strong>
+# All TripleTen Projects
 
 A curated collection of data science projects completed as part of the <strong>TripleTen Data Science Bootcamp</strong>. Each project demonstrates real-world applications of machine learning, data analysis, and model deployment.
 
