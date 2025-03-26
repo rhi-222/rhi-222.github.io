@@ -10,7 +10,7 @@ title: Portfolio
   }
 
   a:hover {
-    color: #2A3030; /* Ink */
+    color: #374040; /* Ink */
     text-decoration: none;
   }
   .custom-button {
