@@ -1,5 +1,5 @@
 ---
-title: Rhi Fillingham | Portfolio
+title: Portfolio
 ---
 
 <p align="center">
