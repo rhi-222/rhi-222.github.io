@@ -1,5 +1,5 @@
 ---
-title: Rhi Fillingham – Aspiring Data Scientist
+title: Rhi Fillingham – Portfolio
 ---
 
 <p align="center">
