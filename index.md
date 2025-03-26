@@ -62,7 +62,7 @@ title: Portfolio
 
 ---
 
-# Hi, I’m Rhi 👩🏻‍💻✨
+# ✦ Hi, I’m Rhi 👩🏻‍💻
 
 I’m an aspiring data scientist with the heart of a visionary and the mind of a scientist.
 
@@ -72,7 +72,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ---
 
-## About Me
+## ✦ About Me
 
 - 🖥️ **Core Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Machine Learning (Supervised & Unsupervised), Deep Learning (CNNs), Data Visualization  
 - 📊 **Focus**: Data Science & Predictive Modeling  
@@ -81,7 +81,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ---
 
-## Tech Stack
+## ✦ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
