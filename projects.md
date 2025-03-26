@@ -69,7 +69,7 @@ title: TripleTen Projects
 
 ---
 
-# All TripleTen Projects
+# 📂 All TripleTen Projects
 
 A curated collection of data science projects completed as part of the <strong>TripleTen Data Science Bootcamp</strong>. Each project demonstrates real-world applications of machine learning, data analysis, and model deployment.
 
