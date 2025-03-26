@@ -2,6 +2,22 @@
 title: Data Diaries
 ---
 <style>
+  .diary-post {
+    background-color: #FAF7EF;
+    padding: 1.2rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  }
+  .diary-post h3 {
+    margin: 0;
+    font-size: 1.1rem;
+  }
+  .diary-post p {
+    margin: 0.4rem 0 0;
+    font-size: 0.95rem;
+    color: #4A4A4A;
+  }
   /* ---------- Global ---------- */
   body {
     background-color: #FAF5E9;
@@ -15,14 +31,12 @@ title: Data Diaries
     font-weight: 500;
     color: #374040;
   }
-
   /* ---------- Main content width (no overlap!) ---------- */
   .page {
     max-width: auto;
     margin: auto;
     padding: 1rem;
   }
-
   /* ---------- Link style ---------- */
   a {
     color: #748A80; /* Forest green */
@@ -33,33 +47,6 @@ title: Data Diaries
   a:hover {
     color: #3D4844;
     text-decoration: none;
-  }
-
-  /* ---------- Buttons ---------- */
-  .custom-button {
-    padding: 10px 20px;
-    font-size: 15px;
-    margin: 6px;
-    border-radius: 8px;
-    border: 0px solid #374040;
-    cursor: pointer;
-    font-weight: 500;
-    transition: all 0.2s ease-in-out;
-    display: inline-block;
-    text-align: center;
-  }
-
-  /* Button color classes */
-  .btn-green     { background-color: #D2E0D4; color: #2A3030; }
-  .btn-pink      { background-color: #EED8C8; color: #2A3030; }
-  .btn-paper     { background-color: #F2EEE3; color: #2A3030; }
-  .btn-orange    { background-color: #F3AC6F; color: #2A3030; }
-  .btn-yellow    { background-color: #D2D2AE; color: #2A3030; }
-  .btn-darkgreen { background-color: #748A80; color: #F2EEE3; }
-
-  .custom-button:hover {
-    transform: scale(1.00);
-    filter: brightness(1.07);
   }
 </style>
 
@@ -73,20 +60,15 @@ title: Data Diaries
 
 Reflections on my journey as an aspiring data scientist—what I’m learning, building, and discovering along the way.
 
-
-### 📌 [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)
-
-_Coming Soon_
-
-
-### 📌 [Post #2: Title](/YYYY/DD/MM/journal-title.html)
-
-_Coming Soon_
-
-
-### 📌 [Post #3: Title](/YYYY/DD/MM/journal-title.html)
-
-_Coming Soon_
+{% for post in site.posts %}
+<div class="diary-post">
+  <h3>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </h3>
+  <p><em>{{ post.date | date: "%B %d, %Y" }}</em></p>
+  <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
+</div>
+{% endfor %}
 
 ---
 
