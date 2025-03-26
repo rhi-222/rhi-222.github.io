@@ -49,6 +49,8 @@ title: Data Diaries
 }
 </style>
 
+---
+
 ## 📓 Data Diaries
 
 Reflections on my journey as an aspiring data scientist—what I’m learning, building, and discovering along the way.
@@ -68,6 +70,7 @@ _Coming Soon_
 
 _Coming Soon_
 
+---
 
 <p align="center">
   <a href="/" class="nav-link">← Back to Home</a>
