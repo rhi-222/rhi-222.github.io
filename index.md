@@ -18,7 +18,7 @@ title: Portfolio
     font-size: 16px;
     margin: 6px;
     border-radius: 8px;
-    border: 1px solid #2A3030;
+    border: 1px solid #374040;
     cursor: pointer;
     font-weight: 500;
     transition: all 0.2s ease-in-out;
@@ -36,7 +36,7 @@ title: Portfolio
 
   /* Hover Effect: Soft lift + brightness */
 .custom-button:hover {
-  transform: scale(1.02);
+  transform: scale(1.00);
   filter: brightness(1.05);
 }
 </style>
@@ -199,7 +199,7 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ## GitHub Stats
 
-![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=tokyonight-light&hide=prs&hide_border=true)
+![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=vue&hide=prs&hide_border=true)
 
 ---
 
