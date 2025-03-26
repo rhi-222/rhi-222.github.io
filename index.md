@@ -70,7 +70,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ---
 
-## <span style="font-size: 0.75em">✦</span> About Me
+## <span style="font-size: 0.50em">✦</span> About Me
 
 - 🖥️ **Core Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Machine Learning (Supervised & Unsupervised), Deep Learning (CNNs), Data Visualization  
 - 📊 **Focus**: Data Science & Predictive Modeling  
@@ -79,7 +79,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 
 ---
 
-## <span style="font-size: 0.75em">✦</span> Tech Stack
+## <span style="font-size: 0.50em">✦</span> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
