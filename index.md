@@ -95,11 +95,13 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 ## My Resume
 
+<p align="center">
   <a href="/rhi_resume.pdf" download>
     <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
       Download Resume
     </button>
   </a>
+</p>
 
 ---
 
