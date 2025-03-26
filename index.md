@@ -1,6 +1,42 @@
 ---
 title: Portfolio
 ---
+<!-- Gold (#D7B569) -->
+<a href="#" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 2px solid #D7B569; background-color: transparent; color: #D7B569; cursor: pointer;">
+    Gold Button
+  </button>
+</a>
+
+<!-- Green (#7F9B7D) -->
+<a href="#" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 2px solid #7F9B7D; background-color: transparent; color: #7F9B7D; cursor: pointer;">
+    Green Button
+  </button>
+</a>
+
+<!-- Coral (#F96C60) -->
+<a href="#" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 2px solid #F96C60; background-color: transparent; color: #F96C60; cursor: pointer;">
+    Coral Button
+  </button>
+</a>
+
+<!-- Navy Blue (#2F52A0) -->
+<a href="#" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 2px solid #2F52A0; background-color: transparent; color: #2F52A0; cursor: pointer;">
+    Navy Button
+  </button>
+</a>
+
+<!-- Clay Beige (#CCBFA1) -->
+<a href="#" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 2px solid #CCBFA1; background-color: transparent; color: #CCBFA1; cursor: pointer;">
+    Clay Beige Button
+  </button>
+</a>
+
+---
 
 <p align="center">
   <a href="/diaries">
@@ -8,7 +44,7 @@ title: Portfolio
       📓 My Data Diaries
     </button>
   </a>
-|
+ |
   <a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
     <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
       🎒 My TripleTen Projects
