@@ -62,6 +62,9 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 - [⛽ Oil Well Profitability Prediction](https://github.com/rhi-222/oil-well-prediction)  
   Developed ML models to predict **oil well success rates** for smarter investment decisions.
   
+- [🎮 What Makes a Video Game a Best-Seller? (Project Article)](https://www.notion.so/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf98025ba24cc587f842db8?pvs=4)  
+  Key insights from EDA and hypothesis testing on what drives commercial success in the gaming industry.
+  
 <p align="center" style="margin-top: 1.5rem; margin-bottom: 1rem;">
   <a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
     <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
