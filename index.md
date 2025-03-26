@@ -41,13 +41,13 @@ title: Portfolio
 
 <p align="center">
   <a href="/diaries">
-    <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
+    <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 1px solid #2A3030; background-color: #f4f4f4; color: #333; cursor: pointer;">
       📓 My Data Diaries
     </button>
   </a>
  |
   <a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
-    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
+    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: 1px solid #2A3030; background-color: #f4f4f4; color: #333; cursor: pointer;">
       🎒 My TripleTen Projects
     </button>
   </a>
@@ -104,7 +104,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
   
 <p align="center" style="margin-top: 1.5rem; margin-bottom: 1rem;">
   <a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
-    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
+    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: 1px solid #2A3030; background-color: #f4f4f4; color: #333; cursor: pointer;">
       View All TripleTen Projects
     </button>
   </a>
@@ -121,7 +121,7 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 <p align="center">
   <a href="/diaries">
-    <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
+    <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 1px solid #2A3030; background-color: #f4f4f4; color: #333; cursor: pointer;">
       Explore All Data Diaries
     </button>
   </a>
@@ -133,20 +133,20 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 <p align="center" style="margin-top: 1rem; margin-bottom: 1rem;">
   <a href="mailto:rhiannon.filli@gmail.com" target="_blank">
-    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
+    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: 1px solid #2A3030; background-color: #f4f4f4; color: #333; cursor: pointer;">
       Email Me
     </button>
   </a>
 
   <a href="https://www.linkedin.com/in/rhiannonfilli" target="_blank">
-    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
+    <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: 1px solid #2A3030; background-color: #f4f4f4; color: #333; cursor: pointer;">
       LinkedIn
     </button>
   </a>
 </p>
 <p align="center">
   <a href="/rhi_resume.pdf" download>
-    <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
+    <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: 1px solid #2A3030; background-color: #f4f4f4; color: #333; cursor: pointer;">
       Download My Resume
     </button>
   </a>
