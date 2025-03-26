@@ -20,7 +20,7 @@ title: Portfolio
   }
   .custom-button {
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 15px;
     margin: 6px;
     border-radius: 8px;
     border: 1px solid #374040;
