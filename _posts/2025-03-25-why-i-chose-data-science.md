@@ -71,11 +71,11 @@ author: "Rhi"
     filter: brightness(1.07);
   }
   .diary-entry {
-    background-color: #ffffff;
+    background-color: #FFFAEE;
     padding: 2rem;
     border-radius: 12px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-    max-width: 800px;
+    max-width: 1000px;
     margin: 2rem auto;
   }
 </style>
