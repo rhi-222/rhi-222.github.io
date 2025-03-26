@@ -5,11 +5,11 @@ title: Portfolio
 <p align="center">
   <a href="/diaries">
     <button style="padding: 10px 20px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
-      📓 My Data Diaries 
+      📓 My Data Diaries
     </button>
   </a>
 |
-  <a href="https://github.com/rhi-222/tripleten-projects" target="_blank">
+  <a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
     <button style="padding: 10px 20px; margin: 5px; font-size: 16px; border-radius: 6px; border: none; background-color: #f4f4f4; color: #333; cursor: pointer;">
       🎒 My TripleTen Projects
     </button>
