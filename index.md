@@ -62,7 +62,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
 - [⛽ Oil Well Profitability Prediction](https://github.com/rhi-222/oil-well-prediction)  
   Developed ML models to predict **oil well success rates** for smarter investment decisions.
   
-- [🎮 What Makes a Video Game a Best-Seller? (Project Article)](https://www.notion.so/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf98025ba24cc587f842db8?pvs=4)  
+- [🎮 What Makes a Video Game a Best-Seller? (Project Article)](https://lying-nymphea-848.notion.site/What-Makes-a-Video-Game-a-Best-Seller-A-Data-Science-Investigation-1ab2aee0caf980a4bf12d30e25e51a86?pvs=4)  
   Key insights from EDA and hypothesis testing on what drives commercial success in the gaming industry.
   
 <p align="center" style="margin-top: 1.5rem; margin-bottom: 1rem;">
