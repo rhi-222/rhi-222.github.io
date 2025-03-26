@@ -40,15 +40,15 @@ title: Portfolio
 }
 </style>
 
-<!-- Data Diaries -->
-<a href="/diaries">
-  <button class="custom-button btn-green">My Data Diaries</button>
-</a>
-
-<!-- TripleTen Projects -->
-<a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
-  <button class="custom-button btn-pink">My TripleTen Projects</button>
-</a>
+<p align="center">
+  <!-- Data Diaries -->
+  <a href="/diaries">
+    <button class="custom-button btn-green">My Data Diaries</button>
+  <!-- TripleTen Projects -->
+  <a href="https://github.com/rhi-222/Data-Projects-TripleTen-" target="_blank">
+    <button class="custom-button btn-pink">My TripleTen Projects</button>
+  </a>
+</p>
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/rhiannonfilli" target="_blank">
