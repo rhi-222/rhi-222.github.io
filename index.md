@@ -5,7 +5,7 @@ title: Portfolio
   body {
     background-color: #FAF5E9;
     color: #374040;
-    font-family: 'Work Sans', sans-serif;/* Optional: dark text for better readability */
+    font-family: 'Prata', sans-serif;/* Optional: dark text for better readability */
   }
     /* Global link color override for Jekyll theme-minimal */
   a {
@@ -201,8 +201,6 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 </p>
 
 ---
-
-## GitHub Stats
 
 ![Rhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhi-222&show_icons=true&theme=vue&hide=prs&hide_border=true)
 
