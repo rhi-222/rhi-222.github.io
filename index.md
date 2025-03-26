@@ -2,6 +2,17 @@
 title: Portfolio
 ---
 <style>
+    /* Global link color override for Jekyll theme-minimal */
+  a {
+    color: #748A80; /* Forest */
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  a:hover {
+    color: #2A3030; /* Ink */
+    text-decoration: underline;
+  }
   .custom-button {
     padding: 10px 20px;
     font-size: 16px;
