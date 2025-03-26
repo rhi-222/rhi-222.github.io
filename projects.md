@@ -53,7 +53,7 @@ title: TripleTen Projects
 
 A curated collection of **data science projects** completed as part of the **TripleTen Data Science Bootcamp**. Each project demonstrates **real-world applications** of machine learning, data analysis, and model deployment.
 
-## ⭐️ **All Projects**
+## **All Projects**
 - **[Telecom Churn Prediction](https://github.com/rhi-222/telecom-churn-prediction)**  
   *Developed a predictive model to identify telecom customers at risk of churn.*  
 - **[Human Age Prediction (Deep Learning)](https://github.com/rhi-222/human-age-prediction)**  
@@ -74,4 +74,8 @@ A curated collection of **data science projects** completed as part of the **Tri
 - **Code** for **data cleaning, model training, and evaluation**.  
 - **Visualizations** and insights from **exploratory data analysis (EDA)**.  
 - **Links to live notebooks** or additional resources.
+
+<p align="center">
+  <a href="/" class="nav-link">← Back to Home</a>
+</p>
 
