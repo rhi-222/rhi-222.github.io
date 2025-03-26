@@ -2,26 +2,47 @@
 title: Portfolio
 ---
 <style>
+  /* ---------- Global ---------- */
   body {
     background-color: #FAF5E9;
     color: #374040;
     font-family: 'Open Sans', sans-serif;
     padding: 2rem;
   }
-    h1, h2, h3, h4, h5, h6 {
+
+  h1, h2, h3, h4, h5, h6 {
     font-family: 'Open Sans', sans-serif;
     font-weight: normal;
     color: #374040;
   }
+
+  /* ---------- Main content width (no overlap!) ---------- */
+  .page {
+    max-width: 960px;
+    margin: auto;
+    padding: 2rem;
+  }
+
+  /* ---------- Sidebar image ---------- */
+  .sidebar img {
+    width: 100%;
+    max-width: 220px;
+    border-radius: 8px;
+  }
+
+  /* ---------- Link style ---------- */
   a {
-    color: #748A80; /* Forest */
+    color: #748A80; /* Forest green */
     text-decoration: none;
     font-weight: bold;
   }
+
   a:hover {
-    color: #3D4844; 
+    color: #3D4844;
     text-decoration: none;
   }
+
+  /* ---------- Buttons ---------- */
   .custom-button {
     padding: 10px 20px;
     font-size: 15px;
@@ -34,31 +55,26 @@ title: Portfolio
     display: inline-block;
     text-align: center;
   }
-  /* Button Variants */
-  .btn-green { background-color: #D2E0D4; color: #2A3030; }
-  .btn-pink  { background-color: #EED8C8; color: #2A3030; }
-  .btn-paper { background-color: #F2EEE3; color: #2A3030; }
-  .btn-orange { background-color: #F3AC6F; color: #2A3030; }
-  .btn-yellow { background-color: #D2D2AE; color: #2A3030; }
-  .btn-darkgreen { background-color: #748A80; color: #F2EEE3; }
-  /* Hover Effect: Soft lift + brightness */
-  .custom-button:hover {
-  transform: scale(1.00);
-  filter: brightness(1.07);
-}
-  .wrapper {
-  max-width: 960px; /* Increase this from the default ~720px */
-  display: grid;
-  grid-template-columns: 260px 1fr; /* Sidebar | Main */
-  gap: 40px;
-}
-  .sidebar img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 4px;
-}
-</style>
 
+  /* Button color classes */
+  .btn-green     { background-color: #D2E0D4; color: #2A3030; }
+  .btn-pink      { background-color: #EED8C8; color: #2A3030; }
+  .btn-paper     { background-color: #F2EEE3; color: #2A3030; }
+  .btn-orange    { background-color: #F3AC6F; color: #2A3030; }
+  .btn-yellow    { background-color: #D2D2AE; color: #2A3030; }
+  .btn-darkgreen { background-color: #748A80; color: #F2EEE3; }
+
+  .custom-button:hover {
+    transform: scale(1.00);
+    filter: brightness(1.07);
+  }
+
+  /* Optional: Reduce bullet symbol size if using ✧ etc. */
+  .emoji-bullet {
+    font-size: 10px;
+    line-height: 1.2;
+  }
+</style>
 ---
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 1rem;">
