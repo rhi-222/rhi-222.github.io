@@ -49,7 +49,7 @@ title: Portfolio
     <button class="custom-button btn-green">My Data Diaries</button>
   </a>
   <a href="https://github.com/rhi-222/tripleten-projects" target="_blank">
-    <button class="custom-button btn-pink">My TripleTen Projects</button>
+    <button class="custom-button btn-orange">My TripleTen Projects</button>
   </a>
 </div>
 
