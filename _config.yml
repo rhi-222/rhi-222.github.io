@@ -1,7 +1,7 @@
 title: Rhi Fillingham
 logo: /profile.png
 description: Aspiring Data Scientist | Environmental & Astronomical Data | Python • ML • Research
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: jekyll-theme-minimal
 
 # Optional but useful
 plugins:
