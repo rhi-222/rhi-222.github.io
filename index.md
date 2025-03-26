@@ -4,7 +4,7 @@ title: Portfolio
 <style>
   body {
     background-color: #FAF5E9;
-    color: #2A3030;
+    color: #374040;
     font-family: 'Work Sans', sans-serif;/* Optional: dark text for better readability */
   }
     /* Global link color override for Jekyll theme-minimal */
@@ -15,7 +15,7 @@ title: Portfolio
   }
 
   a:hover {
-    color: #374040; /* Ink */
+    color: #3D4844; 
     text-decoration: none;
   }
   .custom-button {
