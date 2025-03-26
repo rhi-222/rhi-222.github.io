@@ -119,7 +119,7 @@ I’m especially drawn to projects that combine data with purpose, whether that�
   
 <div style="text-align: center; margin-top: 1rem;">
   <a href="/projects">
-    <button class="custom-button btn-orange">View All TripleTen Projects</button>
+    <button class="custom-button btn-orange">↳ View All TripleTen Projects</button>
   </a>
 </div>
 
@@ -131,10 +131,10 @@ This is where I reflect on the ideas, challenges, and discoveries I encounter as
 
 - [Why I Chose Data Science](/2025/03/25/why-i-chose-data-science.html)  
   _Coming Soon_
-
+  
 <div style="text-align: center; margin-top: 1rem;">
   <a href="/diaries">
-    <button class="custom-button btn-yellow">Explore All Posts</button>
+    <button class="custom-button btn-yellow">↳ Explore All Posts</button>
   </a>
 </div>
 
